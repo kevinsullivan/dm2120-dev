@@ -1,6 +1,6 @@
 # Create a Lean IDE using VSCode Remote Containers
 
-The purpose of this document is to guide you through the process of setting up a VSCode-based development environment for writing logic and mathematics using the Lean Prover. We've worked hard to make this possible while installing minimal software onto your own machine. 
+The purpose of this document is to guide you through the process of setting up a VSCode-based development environment for writing logic and mathematics using the Lean Prover. We've worked hard to make this possible while installing minimal software onto your own machine.
 You must be running a computer that runs either the Windows or MacOS operating system. Here are the steps.
 
 - Update your operating system:
@@ -12,7 +12,7 @@ You must be running a computer that runs either the Windows or MacOS operating s
     4. Reboot your machine. You can check the Windows *System Information* app to confirm that your OS is updated.
 - Have a GitHub account. Create one for yourself if necessary. It's free: https://github.com/
 - Install Docker Desktop: https://www.docker.com/products/docker-desktop.
-- Install VSCode: https://code.visualstudio.com/download. //Clarify what version? (ie. .deb vs .rpm or 64 vs 32 vs ARM),
+- Install VSCode: https://code.visualstudio.com/download.
 - Fork this repository now.
   - You must be logged in to your GitHub account.
   - Visit this very repository page: https://github.com/kevinsullivan/cs2120 (which is probably where you're reading this)
